@@ -1,0 +1,41 @@
+DAA Lab 
+
+L1
+Insertion Sort
+Merge Sort
+
+L2 Solving recurrences (to find Time Complexity)
+- Substitution Method
+- Recursion Tree Method
+- Master Theorem
+
+L3: Divide and Conquer
+Binary Search
+ - bin pow
+ - Fibonacci computation
+ - Strassen's Algo - better way for matrix multiplication ??
+
+L4 Quick Sort
+
+L5 Order Statistics:	Select the ith smallest of n elements
+- Quick Select
+- Median of Medians	guarantees O(n) worst case t.c.
+
+L6
+Heap Implementation (pq)
+Heap Sort
+
+L7 Linear Time Sorting
+Counting Sort:	Stable Sort - cumulative_cnt[arr[i]]-1 would be posn of arr[i] in output arr
+Radix Sort: Digit-by-digit sort	(from LSB to MSB) - uses counting sort(10)
+Bucket Sort: Store elems into buckets, sort buckets, merge result
+
+L8 Hash Function	(Set/Map Implementation?)
+Insert / Remove / Search defined
+Probing Strategies
+ - Linear Probing	: -1 & -2 _/
+ - Chaining		: buckets for each hashInd
+
+
+
+
