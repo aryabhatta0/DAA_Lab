@@ -10,7 +10,7 @@ This repository contains code implementations and materials from the **MA3920: D
 * Two Pointers
 * Set Operations
 * Sliding Window
-* Sorting (Insertion, Merge, Quick, Heap Sorts)
+* [Sorting Algorithms](/sorting_algorithms/) (Insertion, Merge, Quick, Heap Sorts)
 * Hashing
 
 * Graphs and Trees
@@ -31,3 +31,8 @@ This repository contains code implementations and materials from the **MA3920: D
 
 * Dynamic Programming
 * Greedy Algorithms / Knapsack Problem
+
+
+## Lecture Notes
+
+Refer to [Lecture-Materials/](Lecture-Materials/) for lecture notes and additional resources.
